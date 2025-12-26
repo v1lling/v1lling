@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Sascha
+# sascha v1lling
 
-- 👨‍💻 Full-Stack Developer passionate about building digital solutions
-- 🔧 Working with TypeScript, Java, PHP, Dart and more
-- 🚀 Experienced in Vue, Laravel, Java Spring, Flutter, React/Next.js
-- 🎓 M.Sc. in Computer Science from HTWG Konstanz
-- 📫 Reach me at: sascha@svilling.de
+Full-Stack Developer · M.Sc. Computer Science
 
+Building web apps, APIs, and the occasional automation script.
+
+sascha@svilling.de 
